@@ -1,2 +1,2 @@
 # Hello, there is nothing.
-Just do it!
+Come on, just do it!
